@@ -8,11 +8,15 @@ Notice! 1)You must place background.png or background.jpg in /root/shell-theme/t
 2)You must change the  line in gnome-shell-theme.gresource.xml ;find this line <file>Filename</file> and rename that line like this <file>background.png</file>
 
 3)you must change the line in gnome-shell.css 
+
 Find this line :-
+
 #lockDialogGroup {
   background: #2e3436 url(resource:///org/gnome/shell/theme/background.png);
   background-repeat: repeat; } 
+                      
                       Change like this
+
 #lockDialogGroup {
   background: #2e3436 url(resource:///org/gnome/shell/theme/FILENAME);
   background-size: [WIDTH]px [HEIGHT]px;
@@ -30,6 +34,9 @@ usage :
 4)chmod +x login.sh 
 
 5)./login.sh
+
+
+
 ###########################################################
 #  _                _                                   _ #
 # | |__   __ _  ___| | ____ _ _ __ ___  _   _ _ __   __| |#

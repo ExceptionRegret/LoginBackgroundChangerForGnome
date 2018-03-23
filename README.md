@@ -59,6 +59,6 @@ Please enter your choice:
 
 
 
-Thanks for Using you're script 
+Thanks for Using you're script
 # LoginBackgroundChangerforgnome2018
 # LoginBackgroundChangerForGnome

@@ -12,14 +12,19 @@ Notice! 1)You must place background.png or background.jpg in /root/shell-theme/t
 Find this line :-
 
 #lockDialogGroup {
+  
   background: #2e3436 url(resource:///org/gnome/shell/theme/background.png);
+  
   background-repeat: repeat; } 
                       
                       Change like this
 
 #lockDialogGroup {
+  
   background: #2e3436 url(resource:///org/gnome/shell/theme/FILENAME);
+  
   background-size: [WIDTH]px [HEIGHT]px;
+  
   background-repeat: no-repeat;
 }
 

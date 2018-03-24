@@ -17,7 +17,7 @@ Find this line :-
   
   background-repeat: repeat; } 
                    
-                  #Change like this
+                  Change like below given line
 
 #lockDialogGroup {
   

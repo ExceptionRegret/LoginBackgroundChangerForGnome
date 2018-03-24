@@ -16,8 +16,8 @@ Find this line :-
   background: #2e3436 url(resource:///org/gnome/shell/theme/background.png);
   
   background-repeat: repeat; } 
-                      
-                      Change like this
+                   
+                  #Change like this
 
 #lockDialogGroup {
   

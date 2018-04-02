@@ -29,7 +29,7 @@ do
       ;;
       "Step2") 
       nano gnome-shell-theme.gresource.xml
-      mv gnome-shell-theme.gresource.xml /root/home/shell-theme/theme
+      mv gnome-shell-theme.gresource.xml /root/shell-theme/theme
       cd /root/shell-theme/theme
       nano /root/shell-theme/theme/gnome-shell.css
       glib-compile-resources gnome-shell-theme.gresource.xml

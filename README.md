@@ -9,6 +9,7 @@ Notice! 1)You must place background.png or background.jpg in /root/shell-theme/t
 
 3)you must change the line in gnome-shell.css 
 
+4)You must change directory name in the shell script or you will get error or else sometimes you can crash  the system also
 Find this line :-
 
 #lockDialogGroup {

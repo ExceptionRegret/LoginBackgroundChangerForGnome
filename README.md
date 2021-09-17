@@ -1,7 +1,5 @@
 # LoginBackgroundChangerforgnome
-Automated Shell Script To Bypass Google Verification in any KaliLinux 
-Made By hackerstech
-Download google verification bypasser :https://github.com/ExceptionRegret/LoginBackgroundChangerForGnome
+
  
 Notice! 1)You must place background.png or background.jpg in /root/shell-theme/theme OK!
 
